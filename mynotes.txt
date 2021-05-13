@@ -1,4 +1,9 @@
 aaaaaaa
 bbbbb
+<<<<<<< HEAD
 ccccc
 ddddddd
+=======
+修改bug1
+修改bug2
+>>>>>>> cer
